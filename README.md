@@ -1,6 +1,6 @@
 # Ruby on Rails Tutorial sample application
 
-This is the sample application for [*Ruby on Rails Tutorial: Learn Web Development with Rails*](http://www.railstutorial.org/) by [Michael Hartl](http://www.michaelhartl.com/). Visit the live website [*here*](https://fathomless-taiga-58570.herokuapp.com/){:target="_blank"}.
+This is the sample application for [*Ruby on Rails Tutorial: Learn Web Development with Rails*](http://www.railstutorial.org/) by [Michael Hartl](http://www.michaelhartl.com/). Visit the live website <a href="https://fathomless-taiga-58570.herokuapp.com/" target="_blank">here</a>.
 
 ## License
 
